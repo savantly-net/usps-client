@@ -1,5 +1,9 @@
 # usps-client
-Client for the USPS shipping API
+Client for the USPS shipping API -
+
+https://www.usps.com/business/web-tools-apis/documentation-updates.htm
+
+
 
 
 		<dependency>
